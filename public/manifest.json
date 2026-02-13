@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "Academic certificate automation system with multi-level approval workflow",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "certfloww.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "certfloww.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
